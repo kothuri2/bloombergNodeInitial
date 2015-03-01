@@ -1,0 +1,2 @@
+# Spare Change
+We always hear about how a company sounds like on the market. However, what does the company actually SOUND like? By using Bloomberg API, we strived to gather market data, and convert the information into frequencies that can be played to create a melody. Whether it's investors or your every day user, anybody can use Spare Change. With a self written algorithm for mapping values to frequencies as well as a simplistic user interface, we hope that the users are just as happy with the final product as we are.
